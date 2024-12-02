@@ -1,0 +1,198 @@
+﻿No;Nama Restoran;Kategori;Kisaran Harga per Orang (IDR);Alamat;Kota
+1;Bebek Tepi Sawah;Masakan Bali;100,000 - 250,000;Jl. Raya Goa Gajah, Ubud;Bali
+2;Warung Made;Masakan Indonesia;50,000 - 150,000;Jl. Raya Seminyak, Seminyak;Bali
+3;Naughty Nuri's;Barbecue;100,000 - 300,000;Jl. Batubelig No. 41, Kerobokan;Bali
+4;La Plancha;Seafood;75,000 - 200,000;Jl. Mesari Beach, Seminyak;Bali
+5;Sardine;Bistro;200,000 - 500,000;Jl. Petitenget No.21, Kerobokan;Bali
+6;Motel Mexicola;Meksiko;100,000 - 250,000;Jl. Kayujati No.9X, Seminyak;Bali
+7;Ku De Ta;Masakan Internasional;150,000 - 400,000;Jl. Kayu Aya No.9, Seminyak;Bali
+8;Bambu Restaurant;Masakan Asia;200,000 - 400,000;Jl. Petitenget No.198, Kerobokan;Bali
+9;Sea Circus;Cafe;50,000 - 150,000;Jl. Kayu Aya No.22, Seminyak;Bali
+10;Locavore;Masakan Modern;250,000 - 700,000;Jl. Dewi Sita, Ubud;Bali
+11;Mama San;Masakan Asia;150,000 - 300,000;Jl. Raya Kerobokan No.135, Seminyak;Bali
+12;Mozaic Restaurant;Masakan Perancis;300,000 - 600,000;Jl. Raya Sanggingan, Ubud;Bali
+13;Merah Putih;Masakan Indonesia;150,000 - 400,000;Jl. Petitenget No.100X, Kerobokan;Bali
+14;Sate Bali;Masakan Bali;50,000 - 150,000;Jl. Laksmana Oberoi, Seminyak;Bali
+15;Warung Eny;Masakan Indonesia;50,000 - 100,000;Jl. Petitenget No.97, Kerobokan;Bali
+16;Sushi Tei;Sushi;100,000 - 250,000;Jl. Sunset Road, Kuta;Bali
+17;Nook;Cafe;75,000 - 200,000;Jl. Umalas 1, Kerobokan;Bali
+18;Sisterfields;Brunch;100,000 - 250,000;Jl. Kayu Cendana, Seminyak;Bali
+19;Revolver Espresso;Cafe;50,000 - 100,000;Jl. Kayu Aya, Seminyak;Bali
+20;The Fat Turtle;Dessert;50,000 - 100,000;Jl. Petitenget, Seminyak;Bali
+21;Ayam Betutu Gilimanuk;Masakan Bali;50,000 - 150,000;Jl. Raya Tuban, Kuta;Bali
+22;Depot Gang Djangkrik;Masakan Cina;50,000 - 100,000;Jl. Nakula, Kuta;Bali
+23;Massimo Italian Restaurant;Masakan Italia;100,000 - 250,000;Jl. Danau Tamblingan, Sanur;Bali
+24;Warung Bu Mi;Masakan Indonesia;25,000 - 75,000;Jl. Batu Mejan, Canggu;Bali
+25;Warung Mina;Seafood;50,000 - 150,000;Jl. Raya Kuta, Kuta;Bali
+26;Warung Makan Nikmat;Masakan Indonesia;20,000 - 50,000;Jl. Bakung Sari, Kuta;Bali
+27;Jimbaran Bay Seafood Club;Seafood;100,000 - 300,000;Jl. Four Seasons Resort, Jimbaran;Bali
+28;Potato Head Beach Club;Bar & Lounge;150,000 - 400,000;Jl. Petitenget, Seminyak;Bali
+29;Warung Italia;Masakan Italia;50,000 - 150,000;Jl. Kunti I, Seminyak;Bali
+30;Da Maria;Masakan Italia;100,000 - 300,000;Jl. Petitenget No.170, Kerobokan;Bali
+31;Biku;Cafe;75,000 - 200,000;Jl. Raya Petitenget No.888, Seminyak;Bali
+32;Menega Cafe;Seafood;100,000 - 250,000;Jl. Four Seasons Resort, Jimbaran;Bali
+33;Sangsaka Restaurant;Masakan Modern;200,000 - 400,000;Jl. Pangkung Sari No.8, Seminyak;Bali
+34;Nalu Bowls;Cafe;50,000 - 100,000;Jl. Drupadi No.2A, Seminyak;Bali
+35;The Shady Shack;Vegetarian;50,000 - 150,000;Jl. Tanah Barak, Canggu;Bali
+36;Cuca;Tapas;150,000 - 400,000;Jl. Yoga Perkanthi, Jimbaran;Bali
+37;Pison Coffee;Cafe;50,000 - 100,000;Jl. Petitenget No.8A, Seminyak;Bali
+38;Bambu Indah Restaurant;Masakan Bali;100,000 - 300,000;Jl. Banjar Baung, Ubud;Bali
+39;Warung Ibu Oka;Masakan Bali;50,000 - 150,000;Jl. Tegal Sari No.2, Ubud;Bali
+40;Jungle Fish;Restoran Kolam Renang;150,000 - 350,000;Jl. Raya Sebali, Ubud;Bali
+41;Rumah Makan Kedaton;Masakan Indonesia;25,000 - 75,000;Jl. Sunset Road No.6, Kuta;Bali
+42;Warung D'Sawah;Masakan Indonesia;50,000 - 150,000;Jl. Nakula No.7, Seminyak;Bali
+43;Coffee Cartel;Cafe;50,000 - 150,000;Jl. Petitenget No.10, Seminyak;Bali
+44;El Kabron Cliff Club;Masakan Spanyol;150,000 - 400,000;Jl. Pantai Cemongkak, Pecatu;Bali
+45;Watercress Cafe;Cafe;75,000 - 200,000;Jl. Batu Belig No.21A, Seminyak;Bali
+46;Manarai Beach House;Beach Club;150,000 - 400,000;Jl. Nusa Dua, Benoa;Bali
+47;Shelter Cafe;Cafe;50,000 - 150,000;Jl. Drupadi No.1, Seminyak;Bali
+48;Shisha Cafe;Masakan Timur Tengah;100,000 - 250,000;Jl. Legian, Kuta;Bali
+49;Resto Apung Bali;Masakan Laut;100,000 - 300,000;Jl. Raya Batur, Kintamani;Bali
+50;Cafe Organic;Vegetarian;50,000 - 150,000;Jl. Petitenget, Seminyak;Bali
+51;Gusto Gelato & Caffe;Dessert;30,000 - 100,000;Jl. Mertanadi No.46B, Kerobokan;Bali
+52;Warung Bejana;Masakan Bali;50,000 - 150,000;Jl. Raya Uluwatu, Jimbaran;Bali
+53;Laca Laca;Masakan Meksiko;75,000 - 200,000;Jl. Drupadi No.5, Seminyak;Bali
+54;The Loft;Cafe;50,000 - 150,000;Jl. Batu Bolong No.50, Canggu;Bali
+55;Warung Lalapan Cak Asmo;Masakan Jawa;20,000 - 50,000;Jl. Kediri No.36, Kuta;Bali
+56;Milk & Madu;Cafe;50,000 - 150,000;Jl. Pantai Berawa, Canggu;Bali
+57;Ji Restaurant Bali;Masakan Jepang;150,000 - 400,000;Jl. Pantai Batu Bolong, Canggu;Bali
+58;Rumah Makan Pak Bagong;Masakan Sunda;50,000 - 100,000;Jl. Raya Tuban, Kuta;Bali
+59;Warung Mina;Seafood;50,000 - 100,000;Jl. Padang Galak, Sanur;Bali
+60;Spoon Rock Beach Club;Beach Club;150,000 - 400,000;Jl. Pantai Pandawa, Uluwatu;Bali
+61;Warung Sopa;Vegetarian;30,000 - 80,000;Jl. Sugriwa No.36, Ubud;Bali
+62;Bali Buda;Organic, Vegetarian;50,000 - 150,000;Jl. Jembawan No.1, Ubud;Bali
+63;The Lawn;Beach Club;100,000 - 300,000;Jl. Pura Dalem, Canggu;Bali
+64;Warung Pantai;Masakan Indonesia;50,000 - 150,000;Jl. Pantai Batu Bolong, Canggu;Bali
+65;Sunset Grill;Seafood, Grill;150,000 - 400,000;Jl. Pantai Mengiat, Nusa Dua;Bali
+66;Casa Luna;Masakan Internasional;75,000 - 200,000;Jl. Raya Ubud, Ubud;Bali
+67;Waroeng D’Carik;Masakan Bali;50,000 - 100,000;Jl. Sakah, Ubud;Bali
+68;Finns Beach Club;Beach Club;150,000 - 400,000;Jl. Pantai Berawa, Canggu;Bali
+69;Suka Espresso;Cafe;50,000 - 150,000;Jl. Monkey Forest, Ubud;Bali
+70;Baan Bali;Masakan Thailand;100,000 - 250,000;Jl. Pantai Berawa, Canggu;Bali
+71;Warung Tresni;Masakan Bali;25,000 - 75,000;Jl. Drupadi No.27, Seminyak;Bali
+72;Rustica Bali;Masakan Italia;100,000 - 300,000;Jl. Batu Belig No.1, Kerobokan;Bali
+73;Brunch Club;Brunch;75,000 - 200,000;Jl. Kayu Aya No.40, Seminyak;Bali
+74;Warung Nia;Masakan Indonesia;50,000 - 150,000;Jl. Petitenget, Seminyak;Bali
+75;Dandelion;Masakan Indonesia;50,000 - 150,000;Jl. Batu Belig No.11, Canggu;Bali
+76;Elbow Room;Masakan Barat;100,000 - 250,000;Jl. Pantai Berawa No.88, Canggu;Bali
+77;Kebun Bistro;Masakan Mediterania;100,000 - 250,000;Jl. Hanoman No.40, Ubud;Bali
+78;Zest Ubud;Vegan;75,000 - 200,000;Jl. Penestanan Kelod, Ubud;Bali
+79;Da Romeo;Masakan Italia;100,000 - 250,000;Jl. Pantai Berawa, Canggu;Bali
+80;Warung Tujuh;Masakan Indonesia;30,000 - 80,000;Jl. Batu Mejan, Canggu;Bali
+81;Taman Sari Bali Restaurant;Masakan Bali;50,000 - 150,000;Jl. Raya Kedewatan, Ubud;Bali
+82;Spice by Chris Salans;Masakan Modern;200,000 - 500,000;Jl. Raya Ubud No.23, Ubud;Bali
+83;Warung Padang Kecag;Masakan Bali;25,000 - 75,000;Jl. Mendira, Karangasem;Bali
+84;Ji Terrace By The Sea;Masakan Jepang;150,000 - 400,000;Jl. Pantai Batu Bolong, Canggu;Bali
+85;Nasi Ayam Kedewatan Ibu Mangku;Masakan Bali;30,000 - 80,000;Jl. Kedewatan, Ubud;Bali
+86;Bebek Bengil;Masakan Bali;100,000 - 250,000;Jl. Hanoman, Ubud;Bali
+87;Sayan House;Masakan Asia;200,000 - 500,000;Jl. Raya Sayan, Ubud;Bali
+88;Dapur Babah;Masakan Indonesia;75,000 - 200,000;Jl. Raya Legian, Kuta;Bali
+89;Café Lotus;Masakan Bali;50,000 - 150,000;Jl. Raya Ubud No.21, Ubud;Bali
+90;Warung Babi Guling Pak Malen;Masakan Bali;50,000 - 100,000;Jl. Sunset Road, Seminyak;Bali
+91;Tanah Gajah;Masakan Indonesia;200,000 - 500,000;Jl. Goa Gajah, Ubud;Bali
+92;Mama’s German Restaurant;Masakan Jerman;100,000 - 300,000;Jl. Legian No.9, Kuta;Bali
+93;Warung Bule & Susy;Masakan Indonesia;30,000 - 80,000;Jl. Cempaka Putih, Sanur;Bali
+94;Sunset Cafe;Cafe;75,000 - 200,000;Jl. Pantai Dreamland, Pecatu;Bali
+95;Kayuputi Restaurant;Masakan Internasional;300,000 - 600,000;Jl. Kawasan Pariwisata, Nusa Dua;Bali
+96;Pepito Cafe;Cafe;50,000 - 150,000;Jl. Raya Tuban, Kuta;Bali
+97;Warung Padi;Masakan Indonesia;25,000 - 75,000;Jl. Raya Andong, Ubud;Bali
+98;Bebek Timbungan;Masakan Bali;100,000 - 250,000;Jl. Petitenget, Seminyak;Bali
+99;Shiro Sushi;Masakan Jepang;150,000 - 400,000;Jl. Pantai Berawa, Canggu;Bali
+100;Warung Sate Khas Bali;Masakan Bali;50,000 - 150,000;Jl. Sunset Road, Kuta;Bali
+101;Warung Nasi Ayam Ibu Oki;Masakan Bali;30,000 - 70,000;Jl. Uluwatu II, Jimbaran;Bali
+102;Gusto Gelato;Dessert;20,000 - 50,000;Jl. Mertanadi No.46B, Kerobokan;Bali
+103;Ibu Susu Bar & Kitchen;Bar & Kitchen;100,000 - 250,000;Jl. Monkey Forest, Ubud;Bali
+104;Hujan Locale;Masakan Asia;150,000 - 300,000;Jl. Sri Wedari No.5, Ubud;Bali
+105;Crate Cafe;Cafe;50,000 - 150,000;Jl. Canggu Padang Linjong, Canggu;Bali
+106;Maison Tatsuya;Masakan Jepang;150,000 - 350,000;Jl. Kayu Aya No.18, Seminyak;Bali
+107;Taco Casa;Masakan Meksiko;75,000 - 150,000;Jl. Petitenget No.51, Seminyak;Bali
+108;Deus Ex Machina;Bar & Cafe;75,000 - 200,000;Jl. Batu Mejan No.8, Canggu;Bali
+109;Alchemy;Vegan;75,000 - 200,000;Jl. Penestanan Klod, Ubud;Bali
+110;Batik Restaurant;Masakan Indonesia;150,000 - 300,000;Jl. Kayu Aya No.13, Seminyak;Bali
+111;Nebula;Cafe;50,000 - 150,000;Jl. Benesari No.8, Kuta;Bali
+112;Monsieur Spoon;Bakery;30,000 - 100,000;Jl. Umalas I No.89, Kerobokan;Bali
+113;Room4Dessert;Dessert;100,000 - 250,000;Jl. Sanggingan, Ubud;Bali
+114;Clear Cafe;Cafe & Vegan;75,000 - 200,000;Jl. Hanoman No.8, Ubud;Bali
+115;Peloton Supershop;Vegan;50,000 - 150,000;Jl. Raya Pantai Berawa, Canggu;Bali
+116;Milk and Madu;Brunch & Cafe;75,000 - 200,000;Jl. Pantai Berawa, Canggu;Bali
+117;Cafe Vespa;Cafe;50,000 - 150,000;Jl. Raya Penestanan, Ubud;Bali
+118;La Laguna;Tapas & Bar;150,000 - 400,000;Jl. Pantai Kayu Putih, Canggu;Bali
+119;Sage Bali;Vegan;75,000 - 200,000;Jl. Nyuh Bulan, Ubud;Bali
+120;Gelato Secrets;Dessert;30,000 - 70,000;Jl. Dewi Sita, Ubud;Bali
+121;Warung Kayana;Masakan Bali;25,000 - 60,000;Jl. Pantai Batu Mejan, Canggu;Bali
+122;Frestro & Bar;Masakan Barat;100,000 - 300,000;Jl. Petitenget No.103, Seminyak;Bali
+123;Ling-Ling’s;Masakan Fusion;75,000 - 250,000;Jl. Petitenget, Seminyak;Bali
+124;Pomegranate Cafe;Cafe;75,000 - 150,000;Jl. Subak Sok Wayah, Ubud;Bali
+125;Sandbar Sanur;Beach Club;150,000 - 400,000;Jl. Danau Tamblingan, Sanur;Bali
+126;Sate Plecing Arjuna;Masakan Bali;30,000 - 80,000;Jl. Arjuna, Denpasar;Bali
+127;Lazy Cats Cafe;Vegetarian;50,000 - 150,000;Jl. Raya Ubud No.23, Ubud;Bali
+128;Ombak Sunset Restaurant;Masakan Internasional;100,000 - 300,000;Jl. Pantai Kelan, Jimbaran;Bali
+129;Wahaha Pork Ribs;Barbecue;100,000 - 250,000;Jl. Sunset Road No.168, Seminyak;Bali
+130;Il Lido Bali;Masakan Italia;150,000 - 400,000;Jl. Kayu Aya No.1, Seminyak;Bali
+131;Monsieur Spoon;Bakery;30,000 - 80,000;Jl. Batu Bolong No.55, Canggu;Bali
+132;The Avocado Factory;Cafe;50,000 - 150,000;Jl. Pantai Berawa, Canggu;Bali
+133;Nebula Petitenget;Cafe & Restoran;75,000 - 200,000;Jl. Petitenget No.50, Seminyak;Bali
+134;Shelter Bali;Cafe;50,000 - 150,000;Jl. Drupadi No.1, Seminyak;Bali
+135;Warung Damar;Masakan Indonesia;25,000 - 60,000;Jl. Dewi Sri No.1, Kuta;Bali
+136;La Brisa;Beach Club;100,000 - 300,000;Jl. Pantai Batu Mejan, Canggu;Bali
+137;Sate House Ubud;Masakan Bali;30,000 - 80,000;Jl. Raya Ubud, Ubud;Bali
+138;The Cashew Tree;Vegan;50,000 - 150,000;Jl. Pantai Bingin, Pecatu;Bali
+139;Yoghurt Republic;Dessert;30,000 - 60,000;Jl. Raya Kuta, Kuta;Bali
+140;Kilo Bali;Masakan Fusion;150,000 - 400,000;Jl. Drupadi No.22, Seminyak;Bali
+141;Genius Cafe;Beach Club, Cafe;100,000 - 250,000;Jl. Danau Tamblingan No.88, Sanur;Bali
+142;Ling-Ling’s Bali;Masakan Asia;75,000 - 250,000;Jl. Petitenget, Seminyak;Bali
+143;Mowie's on the Beach;Beach Cafe;75,000 - 200,000;Jl. Jungut Batu, Nusa Lembongan;Bali
+144;Secret Spot Canggu;Vegan Cafe;50,000 - 150,000;Jl. Pantai Berawa, Canggu;Bali
+145;Warung Bu Mi;Masakan Indonesia;20,000 - 60,000;Jl. Batu Mejan No.88, Canggu;Bali
+146;The Slow;Masakan Internasional;150,000 - 400,000;Jl. Batu Bolong No.97, Canggu;Bali
+147;Trattoria;Masakan Italia;100,000 - 300,000;Jl. Batu Belig No.7, Seminyak;Bali
+148;Warung Kolega;Masakan Jawa;25,000 - 75,000;Jl. Petitenget No.45, Kerobokan;Bali
+149;Hungry Bird Coffee;Cafe;30,000 - 80,000;Jl. Raya Canggu, Canggu;Bali
+150;KYND Community;Vegan, Cafe;50,000 - 150,000;Jl. Petitenget No.12, Seminyak;Bali
+151;Santanera;Masakan Latin;150,000 - 400,000;Jl. Pantai Batu Mejan No.67, Canggu;Bali
+152;Usha Bali;Masakan Rusia;75,000 - 250,000;Jl. Drupadi No.49, Seminyak;Bali
+153;Monsieur Spoon Canggu;Bakery;30,000 - 100,000;Jl. Pantai Batu Bolong, Canggu;Bali
+154;Drifter Surf Shop & Cafe;Cafe, Bar;50,000 - 200,000;Jl. Raya Uluwatu, Pecatu;Bali
+155;The Harvest Patissier & Chocolatier;Dessert;50,000 - 200,000;Jl. Sunset Road, Kuta;Bali
+156;Raw & Vegan Café;Vegan Cafe;50,000 - 150,000;Jl. Hanoman No.2, Ubud;Bali
+157;La Finca;Masakan Spanyol;100,000 - 250,000;Jl. Subak Sari, Canggu;Bali
+158;Folk Pool & Gardens;Pool & Bar;100,000 - 300,000;Jl. Monkey Forest, Ubud;Bali
+159;Warung Bamboo;Masakan Indonesia;20,000 - 50,000;Jl. Raya Tebongkang, Ubud;Bali
+160;Da Romeo Canggu;Masakan Italia;100,000 - 300,000;Jl. Pantai Berawa, Canggu;Bali
+161;Mad Pops;Dessert, Ice Cream;20,000 - 50,000;Jl. Kayu Aya No.48, Seminyak;Bali
+162;Shooters Bali;Bar & Grill;75,000 - 200,000;Jl. Petitenget, Seminyak;Bali
+163;Shady Shack;Vegan;50,000 - 150,000;Jl. Tanah Barak No.57, Canggu;Bali
+164;Watercress;Cafe;75,000 - 200,000;Jl. Batu Belig No.21A, Seminyak;Bali
+165;The Crumb & Coaster;Cafe;50,000 - 150,000;Jl. Benesari, Kuta;Bali
+166;The Forge;Bar & Grill;100,000 - 250,000;Jl. Petitenget No.34, Seminyak;Bali
+167;Shelter Cafe Bali;Cafe;50,000 - 150,000;Jl. Drupadi No.1, Seminyak;Bali
+168;Wahaha Pork Ribs;Barbecue;100,000 - 250,000;Jl. Sunset Road No.168, Seminyak;Bali
+169;Queen's Tandoor;Masakan India;100,000 - 300,000;Jl. Raya Seminyak No.1, Seminyak;Bali
+170;Bali Bakery;Bakery;30,000 - 100,000;Jl. Sunset Road No.25, Kuta;Bali
+171;Warung Sobat;Masakan Indonesia;25,000 - 75,000;Jl. Batu Belig No.11, Seminyak;Bali
+172;Corner House;Cafe;75,000 - 200,000;Jl. Kayu Aya No.10A, Seminyak;Bali
+173;Cafe Organic;Vegan Cafe;50,000 - 150,000;Jl. Petitenget No.90, Seminyak;Bali
+174;Bali Buda;Organic Cafe;50,000 - 150,000;Jl. Jembawan No.1, Ubud;Bali
+175;Secret Spot Canggu;Vegan, Smoothie;50,000 - 150,000;Jl. Pantai Berawa No.9, Canggu;Bali
+176;Zibiru Restaurant;Masakan Italia;150,000 - 400,000;Jl. Drupadi No.7, Seminyak;Bali
+177;Lemongrass Thai;Masakan Thailand;75,000 - 200,000;Jl. Melasti, Legian;Bali
+178;Shima Teppanyaki;Masakan Jepang;200,000 - 500,000;Jl. Petitenget No.200, Seminyak;Bali
+179;Jungle Fish Bali;Beach Club, Pool;150,000 - 400,000;Jl. Raya Sebali, Ubud;Bali
+180;The Barber Shop;Bar;75,000 - 200,000;Jl. Pantai Berawa No.67, Canggu;Bali
+181;The Loft;Cafe;50,000 - 150,000;Jl. Batu Bolong, Canggu;Bali
+182;Warung Makan 88;Masakan Indonesia;25,000 - 75,000;Jl. Kayu Aya No.88, Seminyak;Bali
+183;Starbucks Reserve Dewata;Cafe;50,000 - 200,000;Jl. Sunset Road, Seminyak;Bali
+184;Kopi Pot;Cafe;50,000 - 150,000;Jl. Legian No.43, Kuta;Bali
+185;Single Fin;Bar & Cafe;75,000 - 250,000;Jl. Labuan Sait, Uluwatu;Bali
+186;The Shed;Cafe;50,000 - 150,000;Jl. Batu Bolong No.7, Canggu;Bali
+187;The Junction House;Cafe & Bistro;75,000 - 200,000;Jl. Kayu Aya No.3, Seminyak;Bali
+188;The Butchers Club Bali;Burger, Bar;100,000 - 300,000;Jl. Petitenget, Seminyak;Bali
+189;Livingstone Cafe & Bakery;Cafe & Bakery;50,000 - 150,000;Jl. Petitenget No.88, Seminyak;Bali
+190;Frankenstein's Laboratory;Masakan Barat;100,000 - 250,000;Jl. Camplung Tanduk, Seminyak;Bali
+191;Warung Pak Dobiel;Masakan Bali;25,000 - 75,000;Jl. Sari Dewi, Jimbaran;Bali
+192;Tides Restaurant;Masakan Laut;150,000 - 400,000;Jl. Pantai Mengiat, Nusa Dua;Bali
+193;The Piring Daun;Masakan Indonesia;50,000 - 150,000;Jl. Pantai Kuta, Kuta;Bali
+194;Art Kafe;Cafe;50,000 - 150,000;Jl. Hanoman No.22, Ubud;Bali
+195;The Bistrot;Masakan Prancis;150,000 - 400,000;Jl. Kayu Aya No.117, Seminyak;Bali
+196;Lacalaca Cantina Mexicana;Masakan Meksiko;100,000 - 250,000;Jl. Drupadi No.1, Seminyak;Bali
+197;Cosmic Diner;Masakan Amerika;75,000 - 200,000;Jl. Sunset Road, Kuta;Bali
