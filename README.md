@@ -25,9 +25,9 @@
 
 EzTrip is an AI-powered travel application designed to offer a more organized, efficient, and sustainable tourism experience. The primary goal of the project is to assist travelers in planning their trips to destinations they are not familiar with. Key features include:
 
-- **Tourist Attraction Recommendations**: Suggestions based on user preferences for accommodation, attractions, and dining.
-- **Expense Tracker**: A feature to monitor the travel budget in real-time.
-- **Integrated Travel Guide**: Comprehensive information on routes, transportation, and personalized itineraries.
+- **Tourist Attraction Recommendations**: Suggestions based on user preferences for accommodation, attractions, and culinary.
+- **Expense Tracker**: A feature to monitor the travel budget.
+- **Integrated Automatic Generate Itineraries**: Create a generated itineraries based on budget input and city that person wants to visits.
 - **Sentiment Analysis**: Using user reviews to provide more relevant recommendations.
 
 ##### Project Focus
@@ -43,7 +43,7 @@ Travel planning often requires careful consideration, especially for travelers l
 </p>
 
 <p align=justify>
-EzTrip aims to address these challenges by providing a solution based on artificial intelligence (AI). The app simplifies the travel planning process by offering more structured and relevant information. Key features such as personalized recommendations, expense tracking, an integrated travel guide, and sentiment analysis from user reviews are designed to enhance the traveler experience and help them explore new destinations.
+EzTrip aims to address these challenges by providing a solution based on artificial intelligence (AI). The app simplifies the travel planning process by offering more structured and relevant information. Key features such as personalized recommendations, expense tracking, an integrated automatic generate itineraries, and sentiment analysis from user reviews are designed to enhance the traveler experience and help them explore new destinations.
 </p>
 
 <p align=justify>
