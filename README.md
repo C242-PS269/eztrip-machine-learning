@@ -291,11 +291,11 @@ For the lexical NLP model, the results obtained are also quite good. The image a
 
 <div align=center>
 
-| Name  | Bangkit ID | Roles | University |
-|---|---|---|---|
-| Marvin Wijaya | M002B4KY2421 | Machine Learning Engineer | Institut Teknologi Bandung |
-| Irvan Hartawan | M002B4KY2010 | Machine Learning Engineer | Institut Teknologi Bandung |
-| Shionita Dwilani Nainggolan | M002B4KX4144 | Machine Learning Engineer | Institut Teknologi Bandung |
+| Name  | Bangkit ID | Roles | University | Work Branch |
+|---|---|---|---|---|
+| Marvin Wijaya | M002B4KY2421 | Machine Learning Engineer | Institut Teknologi Bandung | [Clicke here!](https://github.com/C242-PS269/eztrip-machine-learning/tree/ml-branch-1) |
+| Shionita Dwilani Nainggolan | M002B4KX4144 | Machine Learning Engineer | Institut Teknologi Bandung | [Click here!](https://github.com/C242-PS269/eztrip-machine-learning/tree/ml-branch-2) |
+| Irvan Hartawan | M002B4KY2010 | Machine Learning Engineer | Institut Teknologi Bandung | [Click here!](https://github.com/C242-PS269/eztrip-machine-learning/tree/ml-branch-3) |
 
 </div>
 
