@@ -19,15 +19,17 @@
     <h3>Machine Learning Models Documentation</h3>
 </div>
 
+---
+
 #### Contributing
 
 <div align=center>
 
-| Name  | Bangkit ID | Roles | University |
-|---|---|---|---|
-| Marvin Wijaya | M002B4KY2421 | Machine Learning Engineer | Institut Teknologi Bandung |
-| Irvan Hartawan | M002B4KY2010 | Machine Learning Engineer | Institut Teknologi Bandung |
-| Shionita Dwilani Nainggolan | M002B4KX4144 | Machine Learning Engineer | Institut Teknologi Bandung |
+| Name  | Bangkit ID | Roles | University | Work Branch |
+|---|---|---|---|---|
+| Marvin Wijaya | M002B4KY2421 | Machine Learning Engineer | Institut Teknologi Bandung | [Clicke here!](https://github.com/C242-PS269/eztrip-machine-learning/tree/ml-branch-1) |
+| Shionita Dwilani Nainggolan | M002B4KX4144 | Machine Learning Engineer | Institut Teknologi Bandung | [Click here!](https://github.com/C242-PS269/eztrip-machine-learning/tree/ml-branch-2) |
+| Irvan Hartawan | M002B4KY2010 | Machine Learning Engineer | Institut Teknologi Bandung | [Click here!](https://github.com/C242-PS269/eztrip-machine-learning/tree/ml-branch-3) |
 
 </div>
 
@@ -42,6 +44,8 @@ There is <b>NO LICENSE</b> available yet as this project is still being used for
 - This project is currently part of the <a href="https://www.dicoding.com/programs/bangkit">Bangkit Academy led by Google, Tokopedia, Gojek, and Traveloka</a> program and is being developed by our team as part of the Capstone Project.
 - The primary purpose of this project is to fulfill the requirements of the <b>Bangkit Academy 2024 Batch 2</b> program and to demonstrate the technical and collaborative skills we have acquired during the program.
 - The project is not yet intended for open-source release or commercial use. All rights and restrictions related to the project remain under the team's discretion until further notice.
+
+---
 
 #### Author
 
